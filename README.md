@@ -47,14 +47,6 @@ The system models subjective human reasoning using fuzzy sets and linguistic rul
 ```bash
 git clone <GIT-REPO-HTTPS>
 cd repo-name
-
-
-2. Create a virtual environment (optional but recommended):
-
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
 ```
 
 3. Install dependencies:
